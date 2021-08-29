@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomtominator
 - 👀 I’m interested in summer internships and gaining real-world experience.
-- 🌱 I’m currently learning data structures, probability, and linear algebra.
+- 🌱 I’m currently learning computer architecture, signal processing, and physics.
 - 📫 Reach me through email: twmatthew@berkeley.edu
 
 <!---
