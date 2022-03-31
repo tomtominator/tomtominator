@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomtominator
 - 👀 I’m interested in summer internships and gaining real-world experience.
-- 🌱 I’m currently learning computer architecture, signal processing, and physics.
+- 🌱 I’m currently learning verilog, algorithms, and physics.
 - 📫 Reach me through email: twmatthew@berkeley.edu
 
 <!---
