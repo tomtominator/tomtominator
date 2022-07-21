@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomtominator
 - 👀 I’m interested in digital design.
-- 🌱 I’m currently learning verilog.
+- 🌱 I’m currently learning Verilog and Go.
 - 📫 Reach me through email: twmatthew@berkeley.edu
 
 <!---
